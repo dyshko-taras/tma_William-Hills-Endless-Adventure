@@ -1,0 +1,174 @@
+
+skinSpriteSheet.png
+size: 1024, 489
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+s0
+  rotate: false
+  xy: 1, 1
+  size: 128, 163
+  orig: 128, 163
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 129, 1
+  size: 128, 163
+  orig: 128, 163
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 257, 1
+  size: 128, 163
+  orig: 128, 163
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 385, 1
+  size: 128, 163
+  orig: 128, 163
+  offset: 0, 0
+  index: -1
+s4
+  rotate: false
+  xy: 513, 1
+  size: 128, 163
+  orig: 128, 163
+  offset: 0, 0
+  index: -1
+s5
+  rotate: false
+  xy: 641, 1
+  size: 128, 163
+  orig: 128, 163
+  offset: 0, 0
+  index: -1
+s6
+  rotate: false
+  xy: 769, 1
+  size: 128, 163
+  orig: 128, 163
+  offset: 0, 0
+  index: -1
+s7
+  rotate: false
+  xy: 897, 1
+  size: 128, 163
+  orig: 128, 163
+  offset: 0, 0
+  index: -1
+s8
+  rotate: false
+  xy: 1, 164
+  size: 128, 163
+  orig: 128, 163
+  offset: 0, 0
+  index: -1
+s9
+  rotate: false
+  xy: 129, 164
+  size: 128, 163
+  orig: 128, 163
+  offset: 0, 0
+  index: -1
+s10
+  rotate: false
+  xy: 257, 164
+  size: 128, 163
+  orig: 128, 163
+  offset: 0, 0
+  index: -1
+s11
+  rotate: false
+  xy: 385, 164
+  size: 128, 163
+  orig: 128, 163
+  offset: 0, 0
+  index: -1
+s12
+  rotate: false
+  xy: 513, 164
+  size: 128, 163
+  orig: 128, 163
+  offset: 0, 0
+  index: -1
+s13
+  rotate: false
+  xy: 641, 164
+  size: 128, 163
+  orig: 128, 163
+  offset: 0, 0
+  index: -1
+s14
+  rotate: false
+  xy: 769, 164
+  size: 128, 163
+  orig: 128, 163
+  offset: 0, 0
+  index: -1
+s15
+  rotate: false
+  xy: 897, 164
+  size: 128, 163
+  orig: 128, 163
+  offset: 0, 0
+  index: -1
+s16
+  rotate: false
+  xy: 1, 327
+  size: 128, 163
+  orig: 128, 163
+  offset: 0, 0
+  index: -1
+s17
+  rotate: false
+  xy: 129, 327
+  size: 128, 163
+  orig: 128, 163
+  offset: 0, 0
+  index: -1
+s18
+  rotate: false
+  xy: 257, 327
+  size: 128, 163
+  orig: 128, 163
+  offset: 0, 0
+  index: -1
+s19
+  rotate: false
+  xy: 385, 327
+  size: 128, 163
+  orig: 128, 163
+  offset: 0, 0
+  index: -1
+s20
+  rotate: false
+  xy: 513, 327
+  size: 128, 163
+  orig: 128, 163
+  offset: 0, 0
+  index: -1
+s21
+  rotate: false
+  xy: 641, 327
+  size: 128, 163
+  orig: 128, 163
+  offset: 0, 0
+  index: -1
+s22
+  rotate: false
+  xy: 769, 327
+  size: 128, 163
+  orig: 128, 163
+  offset: 0, 0
+  index: -1
+s23
+  rotate: false
+  xy: 897, 327
+  size: 128, 163
+  orig: 128, 163
+  offset: 0, 0
+  index: -1

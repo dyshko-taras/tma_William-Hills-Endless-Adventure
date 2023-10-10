@@ -1,0 +1,125 @@
+
+skin.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+f30
+  rotate: false
+  xy: 1, 983
+  size: 506, 189
+  orig: 506, 189
+  offset: 0, 0
+  index: -1
+f40
+  rotate: false
+  xy: 1226, 1559
+  size: 506, 304
+  orig: 506, 304
+  offset: 0, 0
+  index: -1
+back_game
+  rotate: false
+  xy: 1, 1174
+  size: 1223, 689
+  orig: 1223, 689
+  offset: 0, 0
+  index: -1
+back_menu
+  rotate: false
+  xy: 1, 181
+  size: 360, 800
+  orig: 360, 800
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 1734, 1807
+  size: 77, 56
+  orig: 77, 56
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 509, 991
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+music_off
+  rotate: false
+  xy: 1, 104
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+music_on
+  rotate: false
+  xy: 363, 906
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+pause
+  rotate: false
+  xy: 1813, 1811
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 509, 1050
+  size: 128, 122
+  orig: 128, 122
+  offset: 0, 0
+  index: -1
+restart
+  rotate: false
+  xy: 1226, 1435
+  size: 128, 122
+  orig: 128, 122
+  offset: 0, 0
+  index: -1
+return
+  rotate: false
+  xy: 1, 50
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+setting
+  rotate: false
+  xy: 80, 127
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+sfx_off
+  rotate: false
+  xy: 639, 1097
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+sfx_on
+  rotate: false
+  xy: 1226, 1358
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+spin
+  rotate: false
+  xy: 1356, 1482
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+spin_active
+  rotate: false
+  xy: 1734, 1730
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
