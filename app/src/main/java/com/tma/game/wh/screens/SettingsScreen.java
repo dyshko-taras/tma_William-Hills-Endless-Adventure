@@ -62,7 +62,7 @@ public class SettingsScreen extends ScreenAdapter {
         table.setFillParent(true);
 
         Table table1 = new Table();
-        table1.setBackground(skin.getDrawable("back_menu"));
+        table1.setBackground(skin.getDrawable("back_setting"));
 
         returnButton = new Image(skin, "return");
         table1.add(returnButton).padLeft(25.0f).padTop(27.0f).expandX().align(Align.topLeft).colspan(3);

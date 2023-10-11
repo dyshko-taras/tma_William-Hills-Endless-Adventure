@@ -6,119 +6,140 @@ filter: Linear, Linear
 repeat: none
 f30
   rotate: false
-  xy: 1, 983
+  xy: 1, 125
   size: 506, 189
   orig: 506, 189
   offset: 0, 0
   index: -1
 f40
   rotate: false
-  xy: 1226, 1559
+  xy: 509, 10
   size: 506, 304
   orig: 506, 304
   offset: 0, 0
   index: -1
-back_game
+back_game2
   rotate: false
-  xy: 1, 1174
-  size: 1223, 689
-  orig: 1223, 689
+  xy: 1, 12
+  size: 360, 111
+  orig: 360, 111
+  offset: 0, 0
+  index: -1
+back_gameover
+  rotate: false
+  xy: 1017, 160
+  size: 360, 800
+  orig: 360, 800
   offset: 0, 0
   index: -1
 back_menu
   rotate: false
-  xy: 1, 181
+  xy: 1379, 160
+  size: 360, 800
+  orig: 360, 800
+  offset: 0, 0
+  index: -1
+back_setting
+  rotate: false
+  xy: 1497, 1216
   size: 360, 800
   orig: 360, 800
   offset: 0, 0
   index: -1
 box
   rotate: false
-  xy: 1734, 1807
-  size: 77, 56
-  orig: 77, 56
+  xy: 1012, 962
+  size: 483, 363
+  orig: 483, 363
   offset: 0, 0
   index: -1
 coin
   rotate: false
-  xy: 509, 991
-  size: 56, 57
-  orig: 56, 57
+  xy: 1, 316
+  size: 1009, 1009
+  orig: 1009, 1009
+  offset: 0, 0
+  index: -1
+back_game
+  rotate: false
+  xy: 1, 1327
+  size: 1223, 689
+  orig: 1223, 689
   offset: 0, 0
   index: -1
 music_off
   rotate: false
-  xy: 1, 104
+  xy: 1497, 1015
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 music_on
   rotate: false
-  xy: 363, 906
+  xy: 1576, 1015
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 pause
   rotate: false
-  xy: 1813, 1811
+  xy: 1734, 1085
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
 play
   rotate: false
-  xy: 509, 1050
+  xy: 363, 1
   size: 128, 122
   orig: 128, 122
   offset: 0, 0
   index: -1
 restart
   rotate: false
-  xy: 1226, 1435
+  xy: 1497, 1092
   size: 128, 122
   orig: 128, 122
   offset: 0, 0
   index: -1
 return
   rotate: false
-  xy: 1, 50
+  xy: 1785, 1162
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
 setting
   rotate: false
-  xy: 80, 127
+  xy: 1734, 1031
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
 sfx_off
   rotate: false
-  xy: 639, 1097
+  xy: 1627, 1139
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 sfx_on
   rotate: false
-  xy: 1226, 1358
+  xy: 1655, 1062
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 spin
   rotate: false
-  xy: 1356, 1482
+  xy: 1706, 1139
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 spin_active
   rotate: false
-  xy: 1734, 1730
+  xy: 1655, 985
   size: 77, 75
   orig: 77, 75
   offset: 0, 0

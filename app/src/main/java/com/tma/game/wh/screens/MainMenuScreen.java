@@ -57,6 +57,7 @@ public class MainMenuScreen extends ScreenAdapter {
                 + "ENDLESS ADVENTURE", skin);
         label.setAlignment(Align.top);
         table1.add(label).padTop(99.0f).align(Align.top).colspan(2);
+        label.setVisible(false);
 
         table1.row();
         playButton = new Image(skin, "play");
